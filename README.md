@@ -2,13 +2,17 @@
 
 ## Getting started
 
-`$ npm install react-native-impresa-netscope --save`
-
-### Mostly automatic installation
+`$ npm install react-native-impresa-netscope@git+https://github.com/TfADrama/react-native-impresa-netscope.git --save`
 
 `$ react-native link react-native-impresa-netscope`
 
-### Manual installation
+#### iOS
+`cd ios/`
+
+`pod install`
+
+
+### Manual installation (Not tested)
 
 
 #### iOS
