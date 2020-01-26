@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-impresa-netscope.git",
-    "baseUrl": "https://github.com/github_account/react-native-impresa-netscope"
+    "url": "git+https://github.com/TfADrama/react-native-impresa-netscope.git",
+    "baseUrl": "https://github.com/TfADrama/react-native-impresa-netscope"
   },
   "keywords": [
     "react-native"
@@ -23,11 +23,11 @@
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "peerDependencies": {
-    "react": "16.2.0",
-    "react-native": "^0.52.0"
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
   },
   "devDependencies": {
-    "react": "16.2.0",
-    "react-native": "^0.52.0"
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
   }
 }
